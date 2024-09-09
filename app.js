@@ -1,5 +1,5 @@
 
-alert("hello");
+// alert("hello");
 
 // function sayMyName(){
 //     console.log("bilal");
