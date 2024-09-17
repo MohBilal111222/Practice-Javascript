@@ -24,3 +24,12 @@ function handleObject(anyobject){
 
 handleObject(user)
 
+
+
+
+
+
+
+
+
+alert("hello world")
