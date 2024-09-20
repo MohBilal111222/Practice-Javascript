@@ -32,4 +32,4 @@ handleObject(user)
 
 
 
-alert("hello world")
+alert("this is a practice website")
